@@ -1,0 +1,27 @@
+C:\Users\Ace Programmer\Documents\NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\bin\Debug\Quest6.exe.config
+C:\Users\Ace Programmer\Documents\NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\bin\Debug\Quest6.exe
+C:\Users\Ace Programmer\Documents\NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\bin\Debug\Quest6.pdb
+C:\Users\Ace Programmer\Documents\NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.csprojResolveAssemblyReference.cache
+C:\Users\Ace Programmer\Documents\NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.Form1.resources
+C:\Users\Ace Programmer\Documents\NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.Properties.Resources.resources
+C:\Users\Ace Programmer\Documents\NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.csproj.GenerateResource.Cache
+C:\Users\Ace Programmer\Documents\NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.exe
+C:\Users\Ace Programmer\Documents\NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.pdb
+C:\Users\Ace Programmer\Documents\~NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\bin\Debug\Quest6.exe.config
+C:\Users\Ace Programmer\Documents\~NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.exe
+C:\Users\Ace Programmer\Documents\~NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.pdb
+C:\Users\Ace Programmer\Documents\~NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\bin\Debug\Quest6.exe
+C:\Users\Ace Programmer\Documents\~NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\bin\Debug\Quest6.pdb
+C:\Users\Ace Programmer\Documents\~NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.csprojResolveAssemblyReference.cache
+C:\Users\Ace Programmer\Documents\~NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.Form1.resources
+C:\Users\Ace Programmer\Documents\~NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.Properties.Resources.resources
+C:\Users\Ace Programmer\Documents\~NEIT\Quarter 6\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.csproj.GenerateResource.Cache
+G:\Game Persistance\Week 7\Quest6\Quest6\bin\Debug\Quest6.exe.config
+G:\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.exe
+G:\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.pdb
+G:\Game Persistance\Week 7\Quest6\Quest6\bin\Debug\Quest6.exe
+G:\Game Persistance\Week 7\Quest6\Quest6\bin\Debug\Quest6.pdb
+G:\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.csprojResolveAssemblyReference.cache
+G:\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.Form1.resources
+G:\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.Properties.Resources.resources
+G:\Game Persistance\Week 7\Quest6\Quest6\obj\Debug\Quest6.csproj.GenerateResource.Cache
